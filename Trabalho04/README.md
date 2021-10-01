@@ -8,9 +8,9 @@ Flags:
 	arquivo2:	Segundo arquivo a ser comparado
 
 Resultado:
-	-Uma imagem contendo as imagens originais, em escala de cinza e seus LBPS
-	-Uma imagem com o histograma
-	-No terminal: Valor da distancia qui-quadrado entre os histogramas do lbp e as caracteristicas extraidas da matriz de coocorrência
+	- Uma imagem contendo as imagens originais, em escala de cinza e seus LBPS
+	- Uma imagem com o histograma
+	- No terminal: Valor da distancia qui-quadrado entre os histogramas do lbp e as caracteristicas extraidas da matriz de coocorrência
 	
 	
 
